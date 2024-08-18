@@ -19,7 +19,7 @@ To run this application, you'll need:
 - Launch MATLAB.
 - Navigate to the cloned repository folder.
 - Open Calculator.mlapp in MATLAB App Designer.
-- 
+
 ### Run the Application:
 - Click on the "Run" button in the App Designer toolbar.
 - The calculator UI will launch, and you can start performing calculations.
